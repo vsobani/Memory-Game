@@ -3,7 +3,7 @@
 
 
 
-Fun and simple memory game, like the one from Super Mario 3, made with plain JavaScript.
+Fun and simple memory game, made with plain JavaScript.
 
 
 ## Instructions
